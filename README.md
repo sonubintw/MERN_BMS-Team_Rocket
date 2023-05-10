@@ -59,9 +59,9 @@ Click on the link it will redirected the user to the Website
 
 
 ## How to run in Visual Stuido code
- - Clone the Project https://github.com/sonubintw/MERN_BMS-Team_Rocket
+ - Clone the Project 
 
-    github clone 
+    git clone https://github.com/sonubintw/MERN_BMS-Team_Rocket
  - Install Dependencies
 
     npm i install
