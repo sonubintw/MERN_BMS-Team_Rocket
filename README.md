@@ -59,7 +59,7 @@ Click on the link it will redirected the user to the Website
 
 
 ## How to run in Visual Stuido code
- - Clone the Project
+ - Clone the Project https://github.com/sonubintw/MERN_BMS-Team_Rocket
 
     github clone 
  - Install Dependencies
